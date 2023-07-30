@@ -1,0 +1,3 @@
+C:/Users/blueg/CLionProjects/9_lab/cmake-build-debug/CMakeFiles/9_lab.dir
+C:/Users/blueg/CLionProjects/9_lab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/blueg/CLionProjects/9_lab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
